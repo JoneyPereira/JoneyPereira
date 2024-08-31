@@ -1,14 +1,20 @@
-### Hi there 👋
+### Olá, eu sou Joney Sousa 👋
 
-**JoneyPereira/JoneyPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏢 **Atuação Profissional**
+- 🚀 Desenvolvedor Java/Kotlin.
+- 🎓 Pos graduando em Engenharia de Software na [FACULDADE METROPOLITANA](https://www.estudesemfronteiras.com/)
 
-Here are some ideas to get you started:
+📱 **Especialidades**
+- 📚 Pergunte-me sobre Java, Kotlin e desenvolvimento backend!
+  
+### 📊 Estatísticas no GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoneyPereira&show_icons=true&theme=dracula)
+
+### 📌 Projetos em Destaque
+
+TODO: Incluir projetos legais!
+
+### 🚀 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoneyPereira&layout=compact)
